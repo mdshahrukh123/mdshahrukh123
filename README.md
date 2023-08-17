@@ -1,6 +1,6 @@
 
 
- <img  src="https://media.istockphoto.com/id/1349334980/vector/frontend-and-backend-behind-the-breech-door.jpg?s=1024x1024&w=is&k=20&c=hAIHIHrsOFYKI1AdAs9ElPW_PWqZWgCB2FVX0Wfx1H8=" width="1200" height = "500">
+ <img  src="https://media.istockphoto.com/id/1349334980/vector/frontend-and-backend-behind-the-breech-door.jpg?s=1024x1024&w=is&k=20&c=hAIHIHrsOFYKI1AdAs9ElPW_PWqZWgCB2FVX0Wfx1H8=" width="1200" height = "300">
 
 <h1 align="center"> Hi there 👋, I am Mohammad Shahrukh</h1>
    <h4 align="center"> Software Developer || Backend Developer || Java Spring Boot Developer</h4>
